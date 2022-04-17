@@ -1,0 +1,12 @@
+main : com.osias10.mc_tailcolor.Main
+name : mc_tailcolor
+version : 0.0.1
+author : osias10
+description : mc_tailcolor
+commands:
+   tc :
+      description:  test
+      usage:  /tc
+      permission:  mc_tailcolor.tc
+   
+   
